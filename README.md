@@ -27,6 +27,7 @@ cd C:\Users\a-meave\Desktop\Active_Directory_User_Creation
 * Robust error Handling with informative error messages
 * Creates a log file of script runtime events 
 
+![user group](https://github.com/Ammmmmmmmmmmmmmmm/Active-Directory-User-Manipulation/assets/68532446/479e5556-7028-4b26-84b9-56c6e6e8024b)
 
 
 ## License
