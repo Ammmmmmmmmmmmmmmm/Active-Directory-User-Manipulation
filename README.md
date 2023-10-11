@@ -18,6 +18,7 @@ cd C:\Users\a-meave\Desktop\Active_Directory_User_Creation
 .\user_creating_script.ps1
 ```
 ### Output should look like this:
+![account creation](https://github.com/Ammmmmmmmmmmmmmmm/Active-Directory-User-Manipulation/assets/68532446/fb60f6f6-1f05-4f53-a511-4f240047af4d)
 
 ### Other Script Functions
 
